@@ -1,1 +1,1 @@
-# budget_controller_app_JS
+Budget Controller App (Developed with HTML5, CSS3 and JavaScript
